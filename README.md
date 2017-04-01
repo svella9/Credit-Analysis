@@ -1,5 +1,5 @@
 # Credit-Analysis
-Analyzing several machine learning algorithms for determining whether a customer is a good or a bad credit.
+Analyzing several machine learning algorithms for determining whether a loan applicant is a good or a bad credit.
 
 Credit risk evaluation decisions are crucial for financial institutions due to high risks associated with inappropriate credit decisions. 
 It is an even more important task today as financial institutions have been experiencing serious competition. Credit scoring has gained 
