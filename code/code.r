@@ -1,5 +1,5 @@
 #
-setwd("/home/vijay/dapro")
+#setwd("/home/vijay/dapro")
 library(gdata)
 library(gmodels)
 data = read.csv("german_credit.csv",sep = ',',header = TRUE)
